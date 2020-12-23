@@ -2,6 +2,6 @@
     "stats": {"stargazers": 1, "watchers": 1, "forks": 0, "contributors": 1, "translations": 81}, 
     "flavors": 
         {
-            "github": {"stable": {"version": "v1.0", "version_code": 1, "apk": "https://deepshadowing.com/release/app-release.apk"}}
+            "github": {"stable": {"version": "v1.0", "version_code": 2, "apk": "https://deepshadowing.com/release/app-release.apk"}}
         }
 }
