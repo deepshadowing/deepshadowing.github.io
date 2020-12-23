@@ -2,7 +2,6 @@
     "stats": {"stargazers": 1, "watchers": 1, "forks": 0, "contributors": 1, "translations": 81}, 
     "flavors": 
         {
-            "github": {"stable": {"version": "v1.0", "version_code": 1, "apk": "https://github.com/deepshadowing/DeepShadowing.android/releases/download/v1.0/DeepShadowing_v1.0_v1.0.apk"}}, 
-            "fdroid": {"stable": {"version": "1.0", "version_code": 1, "apk": "https://f-droid.org/repo/com.touchizen.deepshadowing_v1.0.apk"}}
+            "github": {"stable": {"version": "v1.0", "version_code": 1, "apk": "https://deepshadowing.com/release/app-release.apk"}}
         }
 }
