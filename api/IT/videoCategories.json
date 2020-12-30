@@ -1,6 +1,3 @@
-// 20201230113435
-// https://www.googleapis.com/youtube/v3/videoCategories?part=snippet&key=AIzaSyDgWsUP9XT4473Rq5K41rA1V8WpLRzA9bU&regionCode=IT&hl=it
-
 {
   "kind": "youtube#videoCategoryListResponse",
   "etag": "sxr6-IG37-BxlCTgQrVXg49kQx4",
