@@ -1,0 +1,316 @@
+{
+  "kind": "youtube#videoCategoryListResponse",
+  "etag": "Wi43oAW5clRCEIaE5gx6GiAsSmw",
+  "items": [
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "NwONtM1zMA-OzNT09wAupI7NrSA",
+      "id": "1",
+      "snippet": {
+        "title": "Cine y animación",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "8DgUy9TOgKxNmk6vRL73JY7Ixes",
+      "id": "2",
+      "snippet": {
+        "title": "Motor",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "Jo4mdFW0zW3_OstVvqETHfwptqo",
+      "id": "10",
+      "snippet": {
+        "title": "Música",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "gw1jWMQk5BLRWZIRhXk8mRYSPSw",
+      "id": "15",
+      "snippet": {
+        "title": "Mascotas y animales",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "vhw0pQmz7Gz7qkknWMymYTzvjLQ",
+      "id": "17",
+      "snippet": {
+        "title": "Deportes",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "MgixhMxOeEuyql8aRhq97Tfu6vI",
+      "id": "18",
+      "snippet": {
+        "title": "Cortometrajes",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "t2_eDtm3pZvHqeM17QTp2whO8mM",
+      "id": "19",
+      "snippet": {
+        "title": "Viajes y eventos",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "N5mZh4Kz70z2tsaO7ntgNLPpHPg",
+      "id": "20",
+      "snippet": {
+        "title": "Videojuegos",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "2ZrpduRWl3tRC9KdPmb8gdxuwOw",
+      "id": "21",
+      "snippet": {
+        "title": "Blogs de vídeos",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "XSzcLShHGtWjCfjCIE3b7YWzdC0",
+      "id": "22",
+      "snippet": {
+        "title": "Gente y blogs",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "fjmg6Rb7kM_GAG7d8BzSNoMTSEA",
+      "id": "23",
+      "snippet": {
+        "title": "Comedia",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "UfKEAISK0wqez-iv4H9ga7BXOlI",
+      "id": "24",
+      "snippet": {
+        "title": "Entretenimiento",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "vBYEETQH_l0nb2kIfSVcR4T_gUI",
+      "id": "25",
+      "snippet": {
+        "title": "Noticias y política",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "Cr8EOpbBXr58LIZGTcDaTCeStus",
+      "id": "26",
+      "snippet": {
+        "title": "Consejos y estilo",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "6PoI7NUC9Os0rrhlTsMRrGp7Z28",
+      "id": "27",
+      "snippet": {
+        "title": "Formación",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "bdj8tBVeYu1x-rg24bW7M2gkZsE",
+      "id": "28",
+      "snippet": {
+        "title": "Ciencia y tecnología",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "hVtDpW5Bf7UjXU2mOPHen_WQ-fo",
+      "id": "30",
+      "snippet": {
+        "title": "Películas",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "f6mmAbeEydeSzDjmRFzjW_v0viU",
+      "id": "31",
+      "snippet": {
+        "title": "Anime/Animación",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "QeoTX-fezEtlAnVdf_8HY8RYid0",
+      "id": "32",
+      "snippet": {
+        "title": "Acción/Aventuras",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "ycQHyKPJ2oTc4X7SDq7k-sCCYC0",
+      "id": "33",
+      "snippet": {
+        "title": "Clásicos",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "l-osKnM0W3sfwVoKWt_udXOPF3o",
+      "id": "34",
+      "snippet": {
+        "title": "Comedia",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "3oF8krXnebqjDqvtJfqMOyjYVqQ",
+      "id": "35",
+      "snippet": {
+        "title": "Documental",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "eAl2b-uqIGRDgnlMa0EsGZjXmWg",
+      "id": "36",
+      "snippet": {
+        "title": "Drama",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "JQwzCC9s85B0TlYOb9nuYIlqOoE",
+      "id": "37",
+      "snippet": {
+        "title": "Familia",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "tlfWWEAs0FXUrGDK1Cm39qlJ824",
+      "id": "38",
+      "snippet": {
+        "title": "Cine extranjero",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "nafQR43KCawjITrAI0K_DrO3P0s",
+      "id": "39",
+      "snippet": {
+        "title": "Terror",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "62Z7K7zvNJTiRb2-Gjwf7ex9NXc",
+      "id": "40",
+      "snippet": {
+        "title": "Ciencia ficción/Fantasía",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "VTFskgWJGNjPIIF_7kvnyeNdyxE",
+      "id": "41",
+      "snippet": {
+        "title": "Suspense",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "a64eqtZ4D4wNRYOgwu3kvf581b8",
+      "id": "42",
+      "snippet": {
+        "title": "Cortos",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "Fnvx0BV0dvvTGQQsBKVaq-NC1Po",
+      "id": "43",
+      "snippet": {
+        "title": "Programas",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "B2fHNfTjAkZnPR1bObN0xKu8SMk",
+      "id": "44",
+      "snippet": {
+        "title": "Tráileres",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    }
+  ]
+}
