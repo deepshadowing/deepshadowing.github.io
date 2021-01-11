@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://deepshadowing.com/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://deepshadowing.com/privacy/</loc>
+<loc>http://localhost:4000/privacy/</loc>
 </url>
 <url>
-<loc>https://deepshadowing.com/license.html</loc>
+<loc>http://localhost:4000/license.html</loc>
 <lastmod>2021-01-08T13:42:03+09:00</lastmod>
 </url>
 <url>
-<loc>https://deepshadowing.com/privacy.html</loc>
+<loc>http://localhost:4000/privacy.html</loc>
 <lastmod>2020-12-28T20:05:51+09:00</lastmod>
 </url>
 </urlset>
