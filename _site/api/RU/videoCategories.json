@@ -1,0 +1,316 @@
+{
+  "kind": "youtube#videoCategoryListResponse",
+  "etag": "QIgYI23zlVgAczkiNb_JjBwXaKI",
+  "items": [
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "Tg30aWgBIrgHDy1cCliBWGtvhz0",
+      "id": "1",
+      "snippet": {
+        "title": "Фильмы и анимация",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "FcdYfV870q2fE8ccvKqF0WW7les",
+      "id": "2",
+      "snippet": {
+        "title": "Транспорт",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "dxSvh7bRFM-0vlcbAzXFm2ELNms",
+      "id": "10",
+      "snippet": {
+        "title": "Музыка",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "WplqhSkD3cfB-0NSfbCxZwKrE84",
+      "id": "15",
+      "snippet": {
+        "title": "Животные",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "0sLH_avOmqWg9iz8FJ8BhW_FiXM",
+      "id": "17",
+      "snippet": {
+        "title": "Спорт",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "sUouSwQhcYcmWysGgefMdz4NYoM",
+      "id": "18",
+      "snippet": {
+        "title": "Короткометражные фильмы",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "OjXXggblDWc5gbWqrJcQG5khUO0",
+      "id": "19",
+      "snippet": {
+        "title": "Путешествия",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "y8msfCGyj9jU0oxKtyihymyKj2Q",
+      "id": "20",
+      "snippet": {
+        "title": "Видеоигры",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "9YdGN3Fp2g1lcklSJKEBUjRaWuk",
+      "id": "21",
+      "snippet": {
+        "title": "Ведение видеоблога",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "HD2qQSJp5YD4zV3jX-68O2RzsxY",
+      "id": "22",
+      "snippet": {
+        "title": "Люди и блоги",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "Ytx05MlAytuQpHzF4TWyrprXa3M",
+      "id": "23",
+      "snippet": {
+        "title": "Юмор",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "ltzK1iQGLi-y4mAG8Iw1E6Ya28A",
+      "id": "24",
+      "snippet": {
+        "title": "Развлечения",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "vYYol7WvqyF2lDwzuLd7yL7pd8s",
+      "id": "25",
+      "snippet": {
+        "title": "Новости и политика",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "ZzOC1YEVMla0tbsWoJofkOuTZPU",
+      "id": "26",
+      "snippet": {
+        "title": "Хобби и стиль",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "fbivfiEU566-COQ166ukJpEEJh4",
+      "id": "27",
+      "snippet": {
+        "title": "Образование",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "vLJMY4PWn2hHbyztbsCR0IBz16M",
+      "id": "28",
+      "snippet": {
+        "title": "Наука и техника",
+        "assignable": true,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "G9hkkIHBDkCGNTxIBQriHQPPQ8k",
+      "id": "30",
+      "snippet": {
+        "title": "Кинозал",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "x3dhL-oegOu_CsPJ-GdwkcVIyQY",
+      "id": "31",
+      "snippet": {
+        "title": "Анимация и мультфильмы",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "ieSw_E6KKCw8LUn9w47BNX4QZWw",
+      "id": "32",
+      "snippet": {
+        "title": "Приключения и боевики",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "gQQEhG60mSgL4FkkazyfjpvSSvI",
+      "id": "33",
+      "snippet": {
+        "title": "Классика",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "yp2OqePrFzUWCOWqw4K0RyaoXU4",
+      "id": "34",
+      "snippet": {
+        "title": "Юмор",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "ZuUv4AJkp3ngDib-YQBLlZFvNKQ",
+      "id": "35",
+      "snippet": {
+        "title": "Документальное кино",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "p2Um4fO2fN_TS8Hzkxq3xOGTxvY",
+      "id": "36",
+      "snippet": {
+        "title": "Драмы",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "oMO0N95Ig9-JaWO-ijk0yx17Br0",
+      "id": "37",
+      "snippet": {
+        "title": "Для всей семьи",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "7-p_GcYsEfNat3kmCrYZNz1_a_8",
+      "id": "38",
+      "snippet": {
+        "title": "Зарубежное кино",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "1R1DtbwR1PilR4pPEsEzgOWO2CM",
+      "id": "39",
+      "snippet": {
+        "title": "Ужасы",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "F36SWiqvTqJmthxhEGctjcBqYs4",
+      "id": "40",
+      "snippet": {
+        "title": "Научная фантастика/фэнтези",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "E9QE_BC9Ilybxjo80hfIkDv4hfI",
+      "id": "41",
+      "snippet": {
+        "title": "Триллеры",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "wJXChqk95M_UVcE-1oL_3RvEXo4",
+      "id": "42",
+      "snippet": {
+        "title": "Короткометражные",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "LpMSXZgkrJPenvWWp_-aSxzZdcg",
+      "id": "43",
+      "snippet": {
+        "title": "Шоу",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    },
+    {
+      "kind": "youtube#videoCategory",
+      "etag": "gNxlVjpGzKLUjs6BZvwfYVX7cuY",
+      "id": "44",
+      "snippet": {
+        "title": "Трейлеры",
+        "assignable": false,
+        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
+      }
+    }
+  ]
+}
