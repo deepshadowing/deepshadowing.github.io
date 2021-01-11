@@ -1,0 +1,37 @@
+name: DeepShadowing
+description: Divide video and Learn language
+full_description: |
+  Deep Shadowing is an app that connects users to teachers, divides YouTube videos and helps them learn repeatedly, finally conquering the language, allowing users to develop speaking/listening/writing/reading skills.
+  For language learning, the videos with subtitles are mainly displayed. If there is no subtitle, the learning function is removed. (Functions provided when adding lecture content later)
+  <br>
+  <br>With a lot of features:
+  <br>- Mainly, it shows videos with subtitles
+  <br>- Video can be divided by 10 seconds (default: 60 seconds)
+  <br>- Simultaneous viewing of study and native language subtitles
+  <br>- 5 Steps for learning
+  <br>- Word game: Run word game after learning by divided videos
+  <br>- Bookmark function - bookmarking videos to learn
+  <br>- History functions
+  <br>- Study language: English, Spanish, Portuguese, Korean, Japanese, German, French, Italian, Russian
+  <br>- Voice recording and play function
+  <br>- Repeat function for each subtitle (repeat once, repeat permanently)
+  <br>- Go to the previous/next subtitle.
+
+android: https://play.google.com/store/apps/details?id=com.touchizen.deepshadowing
+iOS: n/a
+web: https://play.google.com/store/apps/details?id=com.touchizen.deepshadowing
+screenshots:
+  - screenshot1.png
+  - screenshot2.png
+  - screenshot3.png
+  - screenshot4.png
+  - screenshot5.png
+  - screenshot6.png
+  - screenshot7.png
+  - screenshot8.png
+producthunt: https://telegra.ph/Replace-this-link-07-23
+companies:
+  - url: https://telegra.ph/Replace-this-link-07-23
+    image: https://m.onestore.co.kr/mobilepoc/favicon.ico?cacheCode=1608601295015
+  - url: https://telegra.ph/Replace-this-link-07-23
+    image: producthunt.png
