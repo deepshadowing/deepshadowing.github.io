@@ -67,5 +67,3 @@ exclude:
   - optimization-fix-this-file-is-ignored.js
   - icon.png
   - docs
-
-theme: jekyll-theme-cayman
