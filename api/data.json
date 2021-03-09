@@ -2,6 +2,6 @@
     "stats": {"stargazers": 1, "watchers": 1, "forks": 0, "contributors": 1, "translations": 0}, 
     "flavors": 
         {
-            "github": {"stable": {"version": "v1.0.7", "version_code": 8, "forceUpdate":false, "apk": "https://play.google.com/store/apps/details?id=com.touchizen.deepshadowing"}}
+            "github": {"stable": {"version": "v1.0.9", "version_code": 10, "forceUpdate":false, "apk": "https://play.google.com/store/apps/details?id=com.touchizen.deepshadowing"}}
         }
 }
