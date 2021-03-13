@@ -13,7 +13,7 @@
                 "version_code": 10, 
                 "forceUpdate": false, 
                 "apk": "https://play.google.com/store/apps/details?id=com.touchizen.deepshadowing",
-                "learningAvailable": ["GB","US"]
+                "learningAvailable": ["EN"]
             }
         }
     }
