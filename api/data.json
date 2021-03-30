@@ -9,8 +9,8 @@
     "flavors": {
         "github": {
             "stable": {
-                "version": "v1.0.9", 
-                "version_code": 10, 
+                "version": "v1.0.11", 
+                "version_code": 12, 
                 "forceUpdate": false, 
                 "apk": "https://play.google.com/store/apps/details?id=com.touchizen.deepshadowing",
                 "learningCountryAvailable": ["GB","US","KR"]
